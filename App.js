@@ -25,6 +25,8 @@ export default function App() {
         }}
       >
         <Text preset="h1">Universal React with Expo</Text>
+        <Text preset="h1">Universal React with Expo</Text>
+        <Text preset="h1">Universal React with Expo</Text>
       </View>
       <View style={{
         flex: 1,
